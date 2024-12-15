@@ -127,6 +127,10 @@ nav ul li a button {
   margin-bottom: 350px;
 }
 
+.margin-top-bottom-other {
+  margin-top: 100px;
+}
+
 .flex-center {
   display: flex;
   justify-content: center;
