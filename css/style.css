@@ -103,7 +103,7 @@ nav ul li a button {
   height: 250px;
   border: 4px solid white;
   border-radius: 10px;
-  animation: zoomIn 10s ease forwards; /* Ajoute l'animation de zoom */
+  animation: zoomIn 10s ease forwards; 
 }
 
 #grok-container {
