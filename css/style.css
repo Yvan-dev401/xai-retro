@@ -136,14 +136,12 @@ nav ul li a button {
 }
 
 .post{
-  background-color: aqua;
   margin-top: 50px;
   width: 1200px;
   height: 500px;
 }
 
 .blog-post{
-  background-color: aqua;
   margin-top: 50px;
   width: 1200px;
   height: 500px;
@@ -158,6 +156,20 @@ nav ul li a button {
 
 .blog-post p {
   width: 250px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.red-block {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  border-radius: 8px;
 }
 
 ul.centered-list {
